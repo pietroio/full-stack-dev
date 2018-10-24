@@ -1,13 +1,7 @@
 # full-stack-dev
-Full Stack trick and tips, explained on the inline code.
+Full Stack (Linux OS, Nodejs Servidor, Expressjs Back-End, Angular Front-End, Mongodb (mongoose) Database).
 
-English/Português (In Progress)
+Aqui meu objetivo é apresentar um projeto piloto de um servidor web, com todas as funcionalidades necessárias para implementação.
 
-E: In this branch I'll try to explain and code at the same time.
-P: Neste seguimento eu irei tentar explicar e codificar simultaneamente.
-
-E: I'll use only open-source tools. It's the most easy way to diffuse programing techs.
-P: Eu usarei apenas ferramentas de codigo aberto. Esta é o jeito mais fácil para difundir técnicas de programação.
-
-Ferramentas/Tools:
-Nodejs, Angular CLI, Expressjs, MongoDB,
+No momento está em progresso o desenvolvimento do mesmo.
+Atualizações estimadas a cada 2 dias úteis.
